@@ -1,0 +1,33 @@
+body{
+    font-family:'popping',sans-serif;
+}
+
+.banner{
+    background-image: url(../img/bannerbg.png);
+    background-size : cover;
+    background-repeat: no-repeat;
+    padding:250px 0;
+}
+
+.skills-padding{
+    padding: 70px 0;
+}
+
+.sol {
+    padding-top: 30px;
+    font-size: 29px;
+    color: black;
+}
+
+* {
+    outline: none;
+}
+
+.custom-bg {
+    background-color: rgba(32, 6, 6, 0.918);
+}
+
+.custom-text {
+    color: your-desired-color; /* Replace 'your-desired-color' with the actual color value you want */
+}
+
